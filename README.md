@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
-<h2 align="center">Hi 👋, Yagya Narayan Tiwari</h2>
+<h2 align="center">Hi 👋, I'm Yagya Narayan Tiwari</h2>
   
 <hr>
   <h2 align="center">Passionate full-stack web developer.</h2>
